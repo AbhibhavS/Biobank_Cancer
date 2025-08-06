@@ -1,14 +1,16 @@
 
 -------In each data file-----------
 
-There are 6 phenotypes that we analyze namely:
+There are 8 phenotypes that we analyze, namely:
 
 1) Breast cancer (BC)
-2) Premenopausal Breast cancer (BC_premeno)
-3) Postmenopausal Breast cancer (BC_postmeno)
-4) Prostate cancer (PCa)
-5) Prostate cancer diagnosed at age below 70 (PCa_below70)
-6) Prostate cancer diagnosed at age above 70 (PCa_above70)
+2) Prostate cancer (PCa)
+3) Lung cancer
+4) Colorectal cancer
+5) Premenopausal Breast cancer (BC_premeno)
+6) Postmenopausal Breast cancer (BC_postmeno)
+7) Prostate cancer diagnosed at age below 70 (PCa_below70)
+8) Prostate cancer diagnosed at age above 70 (PCa_above70)
 
 
 There are three cohorts
@@ -23,4 +25,5 @@ Data 1: The raw model.
 Data 2: Fully adjusted model
 Data 3: The raw model. Here the participants at baseline were free from any type of cancer
 Data 4: Fully adjusted model. Here the participants at baseline were free from any type of cancer
+
 
